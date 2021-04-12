@@ -1,10 +1,38 @@
+# April Fool's Hunt
+
+
+Singe Page Mini Hunt
+Built on top of Leap Day theme.
+
+### quickstart
+```
+git clone this repo
+gem install jekyll bundler github-pages
+Run `script/bootstrap` to install the necessary dependencies
+Run `bundle exec jekyll serve` to start the preview server
+```
+
+Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
+
+
+###  customize to your hunt
+
+steps -- TBD
+Generate hash
+
+
+hashtext = blah
+console.log(CryptoJS.SHA256(hashText).toString(CryptoJS.enc.Hex));
+duckduckgo "sha256 someword"
+
+--- 
+
 # The Leap day theme
 
 [![Build Status](https://travis-ci.org/pages-themes/leap-day.svg?branch=master)](https://travis-ci.org/pages-themes/leap-day) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
 *Leap day is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/leap-day), or even [use it today](#usage).*
 
-![Thumbnail of Leap day](thumbnail.png)
 
 ## Usage
 
