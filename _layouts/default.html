@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+  </head>
+  <body>
+
+      <header>
+        <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+        <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
+      </header>
+
+    {% if site.show_banner %}
+      <div id="banner">
+        <span id="logo"></span>
+        <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
+        {% if site.show_downloads %}
+          <div class="downloads">
+            <span>Downloads:</span>
+            <ul>
+              <li><a href="{{ site.github.zip_url }}" class="button">ZIP</a></li>
+              <li><a href="{{ site.github.tar_url }}" class="button">TAR</a></li>
+            </ul>
+          </div>
+        {% endif %}
+      </div><!-- end banner -->
+    {% endif %}
+
+
+    <div class="wrapper">
+          <nav>
+            <ul></ul>
+            <br>
+            <textarea name="paragraph_text" cols="20" rows="20"
+                            placeholder='Handy Scratchpad'></textarea>
+          </nav>
+          <section>
+            {{ content }}
+
+
+          </section>
+
+
+          <footer>
+            {% if site.github.is_project_page %}
+              <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+            {% endif %}
+            <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></small></p>
+          </footer>
+    </div>
+
+
+
+
+    <div class="colright">
+        All caps, no spaces.
+        <form id="form" onsubmit="return false;">
+            Puzzle 1
+            <input style="padding:0px" type="text" id="puzzle1" size="4"/>
+            <input style="padding:0px" type="submit" value='Check' onclick="checkanswer();" />
+            <p id='response'></p>
+
+        </form>
+    </div>
+
+  </body>
+</html>
+
+<script>
+    function checkanswer() {
+            // I am not sure how hashes work; adding a emoji so that 
+            // can't literally find the exact string just by googling
+            var puzz1submission = document.getElementById("puzzle1").value;
+            const secret = "🤫";
+            console.log( puzz1submission );
+            hashText = CryptoJS.SHA256(puzz1submission + secret);
+            console.log(hashText.toString(CryptoJS.enc.Hex));
+            hashText = hashText.toString(CryptoJS.enc.Hex); 
+            const answers = [ 
+                'fe2072a9ea5de612d29cc3bcfa536ea63a89635504da1a0a947d932947e32380',
+                'dee8e395013eb61c968f1db777ada4da39f3e4e17264dad51d626e2306974f70',
+                'e1321789b84d952a9f2d05d20c2b9b34920e6cdc6e474d7affa708b232e0b9a3',
+                'e4db322bc27b208faafd1c0706dd5c014135496c714c90603e4221fb23d1a785',
+                '5aafb264dd2fcc2cdbee1ec74920e424b22b38408b2bd143b15dd2e75c5edb73',
+                '506fe8ca616e0115a73b0ae1da310244456aac5de77bfa70c747711353cf5b50',
+                '0d6ba4d1ded7e2c32ad34bf9061b2ab6fb19c20b7ed8a861c6099621a60c6bd6',
+                '4fa607514bf2d629996a5551d1fd3d358398741247d955f389752c621c31965a',
+                '148e68a5833c974e2a982fa7fb171015b41434804246b59c759496e990cd3c3c',
+                ];
+            console.log(hashText);
+            response_text = String(puzz1submission);
+            //console.log(hashText.normalize() === ans1.normalize());
+            if (hashText === answers[0]) {
+                    puzz = document.getElementById('puzzle1');
+                    puzz.style.backgroundColor = "lightgreen";
+                    response_text += ' is correct!';
+
+                }
+            else{
+                    document.getElementById('puzzle1').style.backgroundColor = "pink";
+                    response_text += ' is incorrect';
+                }
+            resp = document.getElementById('response');
+            resp.innerHTML = response_text;
+        }
+</script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9/core.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9/sha256.js"></script>
