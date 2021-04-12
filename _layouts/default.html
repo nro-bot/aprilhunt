@@ -64,56 +64,78 @@
 
 
     <div class="colright">
-        All caps, no spaces.
-        <form id="form" onsubmit="return false;">
-            Puzzle 1
-            <input style="padding:0px" type="text" id="puzzle1" size="4"/>
-            <input style="padding:0px" type="submit" value='Check' onclick="checkanswer();" />
-            <p id='response'></p>
-
-        </form>
+        Check answers here:
+        <noscript>
+          (JavaScript required)
+        </noscript>
+        <div id="check_answers"></div>
     </div>
 
   </body>
 </html>
 
 <script>
-    function checkanswer() {
-            // I am not sure how hashes work; adding a emoji so that 
-            // can't literally find the exact string just by googling
-            var puzz1submission = document.getElementById("puzzle1").value;
-            const secret = "🤫";
-            console.log( puzz1submission );
-            hashText = CryptoJS.SHA256(puzz1submission + secret);
-            console.log(hashText.toString(CryptoJS.enc.Hex));
-            hashText = hashText.toString(CryptoJS.enc.Hex); 
-            const answers = [ 
-                'fe2072a9ea5de612d29cc3bcfa536ea63a89635504da1a0a947d932947e32380',
-                'dee8e395013eb61c968f1db777ada4da39f3e4e17264dad51d626e2306974f70',
-                'e1321789b84d952a9f2d05d20c2b9b34920e6cdc6e474d7affa708b232e0b9a3',
-                'e4db322bc27b208faafd1c0706dd5c014135496c714c90603e4221fb23d1a785',
-                '5aafb264dd2fcc2cdbee1ec74920e424b22b38408b2bd143b15dd2e75c5edb73',
-                '506fe8ca616e0115a73b0ae1da310244456aac5de77bfa70c747711353cf5b50',
-                '0d6ba4d1ded7e2c32ad34bf9061b2ab6fb19c20b7ed8a861c6099621a60c6bd6',
-                '4fa607514bf2d629996a5551d1fd3d358398741247d955f389752c621c31965a',
-                '148e68a5833c974e2a982fa7fb171015b41434804246b59c759496e990cd3c3c',
-                ];
-            console.log(hashText);
-            response_text = String(puzz1submission);
-            //console.log(hashText.normalize() === ans1.normalize());
-            if (hashText === answers[0]) {
-                    puzz = document.getElementById('puzzle1');
-                    puzz.style.backgroundColor = "lightgreen";
-                    response_text += ' is correct!';
+    function fixAnswer(answer) {
+        return answer.replace(/[^A-Za-z]/g, '').toUpperCase();
+    }
+    function checkAnswer(fixedAnswer, correctHash) {
+        return CryptoJS.SHA256(fixedAnswer + '🤫').toString(CryptoJS.enc.Hex) === correctHash;
+    }
+    function makeAnswerChecker(name, answerHash) {
+        // <div>
+        //   <div>{name}</div>
+        //   <input type="text" size="5">
+        //   <input type="button" value="Check">
+        //   <div>&nbsp;</div>
+        // </div>
+        var div = document.createElement('div');
+        var nameDiv = document.createElement('div');
+        nameDiv.innerText = name;
+        var answerField = document.createElement('input')
+        answerField.style.marginRight = '8px';
+        answerField.type = 'text';
+        answerField.size = 5;
+        var checkButton = document.createElement('input')
+        checkButton.type = 'button';
+        checkButton.value = 'Check';
+        var responseDiv = document.createElement('div');
+        responseDiv.innerHTML = '&nbsp';
+        div.appendChild(nameDiv);
+        div.appendChild(answerField);
+        div.appendChild(checkButton);
+        div.appendChild(responseDiv);
+        document.getElementById('check_answers').appendChild(div);
 
-                }
-            else{
-                    document.getElementById('puzzle1').style.backgroundColor = "pink";
-                    response_text += ' is incorrect';
-                }
-            resp = document.getElementById('response');
-            resp.innerHTML = response_text;
+        function check() {
+            var fixedAnswer = fixAnswer(answerField.value);
+            if (checkAnswer(fixedAnswer, answerHash)) {
+                puzz = document.getElementById('puzzle1');
+                answerField.value = fixedAnswer;
+                answerField.style.backgroundColor = "lightgreen";
+                answerField.readOnly = true;
+                checkButton.disabled = true;
+                responseDiv.innerText = fixedAnswer + ' is correct!';
+            } else {
+                responseDiv.innerText = fixedAnswer + ' is incorrect';
+            }
         }
+
+        checkButton.onclick = check;
+        answerField.onkeydown = function(ev) {
+            if (ev.key == 'Enter') {
+                check();
+            }
+        }
+    }
+    makeAnswerChecker('Bagus', 'fe2072a9ea5de612d29cc3bcfa536ea63a89635504da1a0a947d932947e32380');
+    makeAnswerChecker('Placeholder R', 'dee8e395013eb61c968f1db777ada4da39f3e4e17264dad51d626e2306974f70');
+    makeAnswerChecker('Traveling by Plane', 'e1321789b84d952a9f2d05d20c2b9b34920e6cdc6e474d7affa708b232e0b9a3');
+    makeAnswerChecker('Title Pending', 'e4db322bc27b208faafd1c0706dd5c014135496c714c90603e4221fb23d1a785');
+    makeAnswerChecker('Poetry', '5aafb264dd2fcc2cdbee1ec74920e424b22b38408b2bd143b15dd2e75c5edb73');
+    makeAnswerChecker("IT'S ABOUT TIME!", '506fe8ca616e0115a73b0ae1da310244456aac5de77bfa70c747711353cf5b50');
+    makeAnswerChecker('Placeholder D', '0d6ba4d1ded7e2c32ad34bf9061b2ab6fb19c20b7ed8a861c6099621a60c6bd6');
+    makeAnswerChecker('A sticky situation', '4fa607514bf2d629996a5551d1fd3d358398741247d955f389752c621c31965a');
+    makeAnswerChecker('Meta', '148e68a5833c974e2a982fa7fb171015b41434804246b59c759496e990cd3c3c');
 </script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9/core.js"></script>
