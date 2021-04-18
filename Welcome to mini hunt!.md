@@ -119,19 +119,20 @@ Also hope and vaccines for m<input type="text" size='5' class="poetry">.
 
 
 |:---|:
-| I | M | O | C | E | V | O | R | H |
-| M | O | C | L | M | N | T | E | E |
+| I | M | O | C | E | V | Y | R | H |
+| M | O | L | L | M | N | T | E | E |
 | A | V | A | N | A | N | C | H | E |
-| R | S | L | O | Y | T | O | D | E |
-| O | I | T | F | T | E | T | I | A |
-| T | N | H | A | E | P | O | L | R |
-| S | K | G | O | M | R | H | S | T |
-| H | E | U | I | Z | O | D | Q | H |
-| D | R | A | Z | R | I | L | B | N |
-| C | O | O | N | C | E | A | N | U |
-| F | R | L | Y | D | L | O | N | E |
+| R | S | T | O | O | N | O | D | E |
+| O | I | H | F | T | E | T | I | A |
+| T | N | G | A | E | O | O | L | R |
+| S | K | U | O | M | R | H | S | T |
+| H | E | O | I | R | P | D | Q | H |
+| D | R | A | Z | C | I | L | B | N |
+| C | O | L | N | Z | E | A | N | U |
+| F | R | C | Y | D | L | O | N | E |
 | I | L | D | E | U | S | D | A | A |
-| E | N | A | C | I | N | R | U | K |
+| E | N | A | C | I | T | R | U | K |
+| E | V | A | S | A | R | O | L | E |
 
 * * *
 
