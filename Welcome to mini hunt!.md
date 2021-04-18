@@ -210,7 +210,22 @@ Whom Chris, Zoe, Dave, Vin and Bradley portray, for short (9)
 
 * * * 
 
-# Placeholder D
+# SweetSmash
+
+| I | M | O | C | E | V | O | R | H |
+|---|---|---|---|---|---|---|---|---|
+| M | O | C | L | M | N | T | E | E |
+| A | V | A | N | A | N | C | H | E |
+| R | S | L | O | Y | T | O | D | E |
+| O | I | T | F | T | E | T | I | A |
+| T | N | H | A | E | P | O | L | R |
+| S | K | G | O | M | R | H | S | T |
+| H | E | U | I | Z | O | D | Q | H |
+| D | R | A | Z | R | I | L | B | N |
+| C | O | O | N | C | E | A | N | U |
+| F | R | L | Y | D | L | O | N | E |
+| I | L | D | E | U | S | D | A | A |
+| E | N | A | C | I | N | R | U | K |
 
 * * * 
 
