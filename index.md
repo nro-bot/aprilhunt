@@ -22,6 +22,37 @@ layout: homepage
 
 ---
 
+#  Welcome to Inaudible Hunt!
+
+This hunt should be beginner-intermediate 
+
+# Sign up
+
+If you would like to be notified right away when the hunt opens, please sign up
+at:
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSddbKOTJN2E_08dYiGlicGEMlBbXj4gFeyfdSeHHt9oPgk2MQ/viewform?embedded=true" width="600" height="469" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+We will also send an email when we release te solutions.
+
+(Thanks to curiouscookoff!)
+
+## FAQ
+
+What is a puzzle?
+
+These are free-form puzzles where there are no instructions, unlike a crossword
+puzzle. The answers will usually be a word or short phrase, which you will
+somehow extract from the the puzzle. e.g.
+
+
+What is hunt?
+
+
+What is a meta?
+
+A meta is a puzzle which uses the answers from other (earlier) puzzles.
+Thus, in order to solve the meta (and win the hunt!), you must solve several, ir
+not all, of the other puzzles.
 
 
 ## Leaderboard
