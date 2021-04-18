@@ -30,7 +30,7 @@
             <ul></ul>
             <br>
             <textarea name="paragraph_text" cols="20" rows="10"
-                            placeholder='Handy Scratchpad'></textarea>
+                            placeholder='Handy Scratchpad (not a puzzle)'></textarea>
           </nav>
           <section>
             {{ content }}
@@ -78,6 +78,7 @@
         var div = document.createElement('div');
         var nameDiv = document.createElement('div');
         nameDiv.innerText = name;
+        nameDiv.style.fontWeight = 'bolder';
         var answerField = document.createElement('input')
         answerField.style.marginRight = '8px';
         answerField.type = 'text';
@@ -102,8 +103,10 @@
                 answerField.readOnly = true;
                 checkButton.disabled = true;
                 responseDiv.innerText = fixedAnswer + ' is correct!';
+                //responseDiv.style.fontStyle = "italic";
             } else {
                 responseDiv.innerText = fixedAnswer + ' is incorrect';
+                //responseDiv.style.fontStyle = "italic";
             }
         }
 

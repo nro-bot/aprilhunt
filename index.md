@@ -81,15 +81,11 @@ When people finish the meta, their names will show up here:
 <input style="padding:0px" type="text" id="submitpass" size="20"/>
 <input style="padding:0px" type="submit" value='Enter passphrase' onclick="makeURL();" />
 </form>
-
-
 <div id='divurl'></div>
-
 <noscript>
 If you disabled javascript, just append '.html' to the passphrase :P
 </noscript>
-
-
+<br>
 
 ---
 
