@@ -2,7 +2,7 @@
 layout: puzzlepage
 ---
 
-#  
+# [ Start ]
 
 Welcome to hunt! We have some puzzles for you.
 
@@ -24,26 +24,44 @@ ANDOVICHAZGAZZELBALOGBLACKOTCOWLEYCYBERANDVROSGEGLAURUNGLLUMGORIYLIZZARDLMIALUIF
 
 * * * 
 
-# To B or not to B 🌶️
+# To B or not to B
 
 DAHLE
+
 LOUIES
+
 BOEING
+
 STAYED
+
 QUILLE
+
 COOLER
+
 BURLY
+
 EYED
+
 RICED
+
 HOLY
+
 BOULE
+
 PEELE
+
 BAILED
+
 BONY
+
 BUGLE
+
 RANI
+
 MOOED
+
 CLOSER
+
 GRAYING
 
 * * * 
@@ -71,43 +89,43 @@ ALA → ROE → KTK → DTK → M19 → WAR
 
   
   <div class='joeri'>
-    The <img src="{{site.baseurl}}/assets/images/placeholder.png"> in the room.  
+    The <img src="{{site.baseurl}}/assets/images/animal01.png"> in the room.  
    </div>
   <div class='joeri'>
-    Brave as a <img src="{{site.baseurl}}/assets/images/placeholder.png">.  
+    Brave as a <img src="{{site.baseurl}}/assets/images/animal02.png">.  
   </div>
   
   <br>
 
   <div class='joeri'>
-    Let the <img src="{{site.baseurl}}/assets/images/placeholder.png"> out of the bag.  
+    Let the <img src="{{site.baseurl}}/assets/images/animal03.png"> out of the bag.  
   </div>
   <div class='joeri'>
-    <img src="{{sites.baseurl}}/assets/images/placeholder.png">-shaving.  
-  </div>
-
-  <br>
-
-  <div class='joeri'>
-    Blind as a <img src="{{site.baseurl}}/assets/images/placeholder.png"> .  
-  </div>
-  <div class='joeri'>
-    The <img src="{{site.baseurl}}/assets/images/placeholder.png">  around one’s neck.   
-  </div>
-  <div class='joeri'>
-    Busy as a <img src="{{site.baseurl}}/assets/images/placeholder.png"> .   
+    <img src="{{sites.baseurl}}/assets/images/animal04.png">-shaving.  
   </div>
 
   <br>
 
   <div class='joeri'>
-    To <img src="{{site.baseurl}}/assets/images/placeholder.png">  out of something.  
+    Blind as a <img src="{{site.baseurl}}/assets/images/animal05.png"> .  
   </div>
   <div class='joeri'>
-    Like a <img src="{{site.baseurl}}/assets/images/placeholder.png">  out of water.   
+    The <img src="{{site.baseurl}}/assets/images/animal06.png">  around one’s neck.   
   </div>
   <div class='joeri'>
-   Quitting cold <img src="{{site.baseurl}}/assets/images/placeholder.png"> .   
+    Busy as a <img src="{{site.baseurl}}/assets/images/animal07.png"> .   
+  </div>
+
+  <br>
+
+  <div class='joeri'>
+    To <img src="{{site.baseurl}}/assets/images/animal08.png">  out of something.  
+  </div>
+  <div class='joeri'>
+    Like a <img src="{{site.baseurl}}/assets/images/animal09.png">  out of water.   
+  </div>
+  <div class='joeri'>
+   Quitting cold <img src="{{site.baseurl}}/assets/images/animal10.png"> .   
   </div>
 
   <br>
@@ -159,8 +177,7 @@ Whom Chris, Zoe, Dave, Vin and Bradley portray, for short (9)
 
 * * * 
 
-# SweetSmash 🌶️🌶️
-
+# SweetSmash
 
 |:---|:
 | I | M | O | C | E | V | O | R | H |
