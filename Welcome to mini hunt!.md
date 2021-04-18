@@ -74,28 +74,27 @@ Fastener |   CRAZE |
 
 # To B or not to B 🌶️
 
-```
-DAHLE
-LOUIES
-BOEING
-STAYED
-QUILLE
-COOLER
-BURLY
-EYED
-RICED
-HOLY
-BOULE
-PEELE
-BAILED
-BONY
-BUGLE
-RANI
-MOOED
-CLOSER
-GRAYING
-```
+<!-- use of two spaces at end to force newline in markdown -->
 
+DAHLE  
+LOUIES  
+BOEING  
+STAYED  
+QUILLE  
+COOLER  
+BURLY  
+EYED  
+RICED  
+HOLY  
+BOULE  
+PEELE  
+BAILED  
+BONY  
+BUGLE  
+RANI  
+MOOED  
+CLOSER  
+GRAYING  
 
 * * *
 
