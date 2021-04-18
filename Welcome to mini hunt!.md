@@ -41,7 +41,7 @@ Fastener |   CRAZE |
     Let the <img src="{{site.baseurl}}/assets/images/animal03.png"> out of the bag.  
   </div>
   <div class='joeri'>
-    <img src="{{sites.baseurl}}/assets/images/animal04.png">-shaving.  
+    <img src="{{site.baseurl}}/assets/images/animal04.png">-shaving.  
   </div>
 
   <br>
