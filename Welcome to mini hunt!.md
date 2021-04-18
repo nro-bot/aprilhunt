@@ -13,61 +13,20 @@ Welcome to hunt! We have some puzzles for you.
 
 <!--- ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) -->
 
+* * * 
+
+# A sticky situation 🌶️
+
+|:-------------|:
+Seafaring vessel | CALL |
+Bananas |  CHIP |
+Headwear for royalty |  CLASH |
+Thin out |   CLOWN |
+Fastener |   CRAZE |
 
 * * * 
 
-# Bagus 🌶️🌶️🌶️
-
-```
-ANDOVICHAZGAZZELBALOGBLACKOTCOWLEYCYBERANDVROSGEGLAURUNGLLUMGORIYLIZZARDLMIALUIFERLURZMALACIOBLINOCTROKPISTACOPOSVOICERAINRASILONRMOSSELOBSIBYSLIHEENSNOWFLAKWACHIEFWEDIGO
-```
-
-* * * 
-
-# To B or not to B 🌶️
-
-DAHLE
-LOUIES
-BOEING
-STAYED
-QUILLE
-COOLER
-BURLY
-EYED
-RICED
-HOLY
-BOULE
-PEELE
-BAILED
-BONY
-BUGLE
-RANI
-MOOED
-CLOSER
-GRAYING
-
-* * * 
-
-
-<!--<div class='focusable' tabindex=0> </div> -->
-
-# Traveling by Plane 🌶️🌶️
-
-GS1 → M20
-
-ALA → SOM → THS → THB
-
-C14 → SOI → WAR  → ZNR 
-
-FRF →  WAR → M21
-
-ALA → ROE → KTK → DTK → M19 → WAR
-
-
-
-* * * 
-
-# Title Pending 🌶️
+# Animal Sayings 🌶️
 
   <div class='joeri'>
     The <img src="{{site.baseurl}}/assets/images/animal01.png"> in the room.  
@@ -113,6 +72,31 @@ ALA → ROE → KTK → DTK → M19 → WAR
 
 * * * 
 
+# To B or not to B 🌶️
+
+DAHLE
+LOUIES
+BOEING
+STAYED
+QUILLE
+COOLER
+BURLY
+EYED
+RICED
+HOLY
+BOULE
+PEELE
+BAILED
+BONY
+BUGLE
+RANI
+MOOED
+CLOSER
+GRAYING
+
+
+* * *
+
 # Poetry 🌶️
 
 THOU HE <u>BALK</u> "REMOVER"
@@ -125,6 +109,45 @@ Inside no masks was a sin,
 Takeout replaced dining <input type="text" size='5' class="poetry">.  
 New year spring brings outdoor botany,  
 Also hope and vaccines for m<input type="text" size='5' class="poetry">.  
+
+
+
+* * *
+
+# SweetSmash 🌶️🌶️
+
+
+|:---|:
+| I | M | O | C | E | V | O | R | H |
+| M | O | C | L | M | N | T | E | E |
+| A | V | A | N | A | N | C | H | E |
+| R | S | L | O | Y | T | O | D | E |
+| O | I | T | F | T | E | T | I | A |
+| T | N | H | A | E | P | O | L | R |
+| S | K | G | O | M | R | H | S | T |
+| H | E | U | I | Z | O | D | Q | H |
+| D | R | A | Z | R | I | L | B | N |
+| C | O | O | N | C | E | A | N | U |
+| F | R | L | Y | D | L | O | N | E |
+| I | L | D | E | U | S | D | A | A |
+| E | N | A | C | I | N | R | U | K |
+
+* * *
+
+
+<!--<div class='focusable' tabindex=0> </div> -->
+
+# Traveling by Plane 🌶️🌶️
+
+GS1 → M20
+
+ALA → SOM → THS → THB
+
+C14 → SOI → WAR  → ZNR
+
+FRF →  WAR → M21
+
+ALA → ROE → KTK → DTK → M19 → WAR
 
 * * * 
 
@@ -156,36 +179,15 @@ Vietnam commander (9)
 Who gets the estate? (8)    
 Whom Chris, Zoe, Dave, Vin and Bradley portray, for short (9)   
 
-* * * 
-
-# SweetSmash 🌶️🌶️
-
-
-|:---|:
-| I | M | O | C | E | V | O | R | H |
-| M | O | C | L | M | N | T | E | E |
-| A | V | A | N | A | N | C | H | E |
-| R | S | L | O | Y | T | O | D | E |
-| O | I | T | F | T | E | T | I | A |
-| T | N | H | A | E | P | O | L | R |
-| S | K | G | O | M | R | H | S | T |
-| H | E | U | I | Z | O | D | Q | H |
-| D | R | A | Z | R | I | L | B | N |
-| C | O | O | N | C | E | A | N | U |
-| F | R | L | Y | D | L | O | N | E |
-| I | L | D | E | U | S | D | A | A |
-| E | N | A | C | I | N | R | U | K |
 
 * * * 
 
-# A sticky situation 🌶️
+# Bagus 🌶️🌶️🌶️
 
-|:-------------|:
-Seafaring vessel | CALL |
-Bananas |  CHIP |
-Headwear for royalty |  CLASH |
-Thin out |   CLOWN |
-Fastener |   CRAZE |
+```
+ANDOVICHAZGAZZELBALOGBLACKOTCOWLEYCYBERANDVROSGEGLAURUNGLLUMGORIYLIZZARDLMIALUIFERLURZMALACIOBLINOCTROKPISTACOPOSVOICERAINRASILONRMOSSELOBSIBYSLIHEENSNOWFLAKWACHIEFWEDIGO
+```
+
 
 * * * 
 # Meta 🌶️
