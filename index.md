@@ -2,21 +2,16 @@
 layout: homepage 
 ---
 
-
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~ -->
-
-
 <!--- ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) -->
-
-
-
-
 
 # Welcome!
 
 This a small puzzle hunt written as practice by a small group of people. There
 will be 8 puzzles and one meta, and an answer checker. The puzzles are short, if
-we had to say, it might take 2-3 people no more than 4 hours.
+we had to guess, it might take intermediate 2-3 people around 4 hours. 
+The hunt will run from noon Saturday to midnight Sunday, at which point we will
+release the solutions.
 
 <h2><p style="text-align: center;">Hunt will begin in:</p></h2>
 <div class="countdown" id="countdown">
@@ -32,7 +27,7 @@ we had to say, it might take 2-3 people no more than 4 hours.
 
 ## Email Notifications 
 
-If you would like to be notified right away when 1. hunt opens 2. solutions
+If you would like to be notified right away when hunt opens and solutions
 released, please enter email below. (Note: Strictly optional, webpage should
 update on day of hunt with passcode to puzzles)
 
@@ -46,14 +41,21 @@ update on day of hunt with passcode to puzzles)
 We made an attempt at an FAQ, but honestly this is just for our friends right now so we
 assume you are familiar with puzzlehunts...
 
-- What is a puzzle?
+- What are these puzzles?
 
 These are free-form puzzles where there are no instructions, unlike a crossword
 puzzle. The answers will usually be a word or short phrase, which you will
-somehow extract from the the puzzle. e.g.
+somehow extract from the the puzzle. 
 
+- What is a hunt?
 
-- What is hunt?
+Several puzzles meant to be solved together. If the hunt is timed people will
+compete to be first to finish the hunt.
+
+- What counts as finishing the hunt?
+
+Solving the meta is sufficient to enter the leaderboard (if you wish), without
+necessarily solving all puzzles.
 
 - What is a meta?
 
