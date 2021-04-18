@@ -546,5 +546,40 @@ footer {
   // DO NOT USE!!
 }
 
+j
 
 .focusable:focus {background-color:red;}
+
+
+.countdown{
+  color: #333;
+  margin: 0 auto;
+  text-align: center;
+  align-items: center;
+  background-color: #ffd54f;
+
+
+h1 {
+  font-weight: normal;
+  letter-spacing: .125rem;
+  text-transform: uppercase;
+}
+
+li {
+  display: inline-block;
+  font-size: 1.5em;
+  list-style-type: none;
+  padding: 1.5em 1em 1em 1em;
+  text-transform: uppercase;
+}
+
+li span {
+  display: block;
+  font-size: 2.5rem;
+
+}
+
+
+}
+
+

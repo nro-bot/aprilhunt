@@ -2,14 +2,14 @@
 layout: puzzlepage
 ---
 
-#  
+#  Let the hunt begin!
 
-Welcome to hunt! We have some puzzles for you.
+Note: 🌶️ are ratings based mostly on puzzle length and somewhat on difficulty. 
+Internet searches are allowed (and needed).
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~ -->
 
 <!--- [Link to another page](./another-page.html). --->
-
 
 <!--- ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) -->
 

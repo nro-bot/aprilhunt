@@ -24,7 +24,8 @@
 
 
     <div class="wrapper">
-          <section>
+         <section>
+
             {{ content }}
           </section>
     </div>
@@ -44,6 +45,46 @@
 </html>
 
 <script>
+
+(function () {
+        const second = 1000,
+            minute = second * 60,
+            hour = minute * 60,
+            day = hour * 24;
+
+        let birthday = "Apr 24, 2021 12:00:00",
+            countDown = new Date(birthday).getTime(),
+            x = setInterval(function() {
+                    var d = new Date();
+                    var localTime = d.getTime();
+                    var localOffset = d.getTimezoneOffset() * 60000;
+                    var utc = localTime + localOffset;
+                    var offset = -4; // EDT = UTC-4
+                    var easternTimeNow = utc + (3600000*offset);
+                    let now = easternTimeNow;
+
+                    //let now = new Date().getTime(),
+                        distance = countDown - now;
+                        document.getElementById("days").innerText = Math.floor(distance / (day)),
+                        document.getElementById("hours").innerText = Math.floor((distance % (day)) / (hour)),
+                        document.getElementById("minutes").innerText = Math.floor((distance % (hour)) / (minute)),
+                        document.getElementById("seconds").innerText = Math.floor((distance % (minute)) / second);
+
+                    //do something later when date is reached
+                    if (distance < 0) {
+                            let headline = document.getElementById("headline"),
+                                countdown = document.getElementById("countdown"),
+                                content = document.getElementById("content");
+
+                            headline.innerText = "It's puzzling time!";
+                            countdown.style.display = "none";
+                            content.style.display = "block";
+
+                            clearInterval(x);
+                        }
+                    //seconds
+                }, 0)
+        }());
 </script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9/core.js"></script>

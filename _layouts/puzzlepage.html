@@ -18,7 +18,9 @@
 
       <header>
         <!--<h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>-->
-        <h1><a href='{{site.baseurl}}'>{{ site.title_var | default: site.github.repository_name }}</a></h1>
+        <!--http://jekyll-brasil.github.io/docs/variables/-->
+        <!--https://rubydoc.info/gems/liquid/Liquid/StandardFilters#default-instance_method-->
+        <h1><a href="{{site.baseurl}}/index.html">{{ site.title_var | default: site.github.repository_name }}</a></h1>
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
       </header>
 
