@@ -63,6 +63,11 @@ A meta is a puzzle which uses the answers from other (earlier) puzzles.
 Thus, in order to solve the meta (and win the hunt!), you must solve several, ir
 not all, of the other puzzles.
 
+- Who made this? Who are my emails being stored by?
+
+We are: nrobot, James, Tchakka, Dbopp, robo, L, Zoz, dwilson, Seth
+Emails go to: nrobot
+
 ---
 
 ## Leaderboard
