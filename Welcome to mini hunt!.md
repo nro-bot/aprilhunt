@@ -179,7 +179,7 @@ Whom Chris, Zoe, Dave, Vin and Bradley portray, for short (9)
 
 # SweetSmash
 
-|---|---|---|---|---|---|---|---|---|
+|:---|:
 | I | M | O | C | E | V | O | R | H |
 | M | O | C | L | M | N | T | E | E |
 | A | V | A | N | A | N | C | H | E |
