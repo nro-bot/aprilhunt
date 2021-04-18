@@ -74,6 +74,7 @@ Fastener |   CRAZE |
 
 # To B or not to B 🌶️
 
+```
 DAHLE
 LOUIES
 BOEING
@@ -93,6 +94,7 @@ RANI
 MOOED
 CLOSER
 GRAYING
+```
 
 
 * * *
