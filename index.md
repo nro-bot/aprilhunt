@@ -2,12 +2,35 @@
 layout: homepage 
 ---
 
-# [ Start ]
-
-Thanks for trying out our hunt!
-We have some puzzles for you.
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~ -->
+
+
+<!--- ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) -->
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+
+
+## Leaderboard
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTx5MtV4QKFO5hq7QppPUx2qEvJV29TNfVR80uxloN7fPoFcjyl3qHpCY8d5ZBkIgfYlHJFldXvXIKN/pubhtml?gid=1309153968&amp;single=true&amp;widget=true&amp;headers=false"  width="500" height="400"></iframe>
+
+Our hunt is not secure, in good spirit please do not try to reverse the answers
+from the source code.
+
 
 ---
 
@@ -27,31 +50,6 @@ We have some puzzles for you.
 <noscript>
 If you disabled javascript, just append '.html' to the passphrase :P
 </noscript>
-
-
-<!--- ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) -->
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
----
-
-## Leaderboard
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTx5MtV4QKFO5hq7QppPUx2qEvJV29TNfVR80uxloN7fPoFcjyl3qHpCY8d5ZBkIgfYlHJFldXvXIKN/pubhtml?gid=1309153968&amp;single=true&amp;widget=true&amp;headers=false"  width="500" height="400"></iframe>
-
-Our hunt is not secure, in good spirit please do not try to reverse the answers
-from the source code.
-
 
 
 <script>

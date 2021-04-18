@@ -2,7 +2,7 @@
 layout: puzzlepage
 ---
 
-# [ Start ]
+#  
 
 Welcome to hunt! We have some puzzles for you.
 
@@ -24,44 +24,26 @@ ANDOVICHAZGAZZELBALOGBLACKOTCOWLEYCYBERANDVROSGEGLAURUNGLLUMGORIYLIZZARDLMIALUIF
 
 * * * 
 
-# To B or not to B
+# To B or not to B 🌶️
 
 DAHLE
-
 LOUIES
-
 BOEING
-
 STAYED
-
 QUILLE
-
 COOLER
-
 BURLY
-
 EYED
-
 RICED
-
 HOLY
-
 BOULE
-
 PEELE
-
 BAILED
-
 BONY
-
 BUGLE
-
 RANI
-
 MOOED
-
 CLOSER
-
 GRAYING
 
 * * * 
@@ -177,7 +159,8 @@ Whom Chris, Zoe, Dave, Vin and Bradley portray, for short (9)
 
 * * * 
 
-# SweetSmash
+# SweetSmash 🌶️🌶️
+
 
 |:---|:
 | I | M | O | C | E | V | O | R | H |
