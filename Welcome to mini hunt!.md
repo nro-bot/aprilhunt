@@ -83,15 +83,14 @@ GRAYING
 THOU HE <u>BALK</u> "REMOVER"
 
 2020 sucked I knew,  
-Clubs and bars I saw no <input type="text" size='5' class="poetry">.  
+<!--Clubs and bars I saw no <input type="text" size='5' class="poetry">.  -->
+Clubs and bars I saw no ___. 
 Real life friends I hardly see,  
-No more cafe catchup <input type="text" size='5' class="poetry">.  
+No more cafe catchup ___. 
 Inside no masks was a sin,  
-Takeout replaced dining <input type="text" size='5' class="poetry">.  
+Takeout replaced dining ___. 
 New year spring brings outdoor botany,  
-Also hope and vaccines for m<input type="text" size='5' class="poetry">.  
-
-
+Also hope and vaccines for m___.  
 
 * * *
 
