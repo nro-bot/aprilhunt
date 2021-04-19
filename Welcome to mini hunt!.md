@@ -54,7 +54,7 @@ Fastener |   CRAZE |
 
 # To B or not to B 🌶️
 
-<!-- use of two spaces at end to force newline in markdown -->
+<!-- Use >= two spaces at end of each line to force newline in markdown -->
 
 DAHLE  
 LOUIES  
@@ -84,13 +84,13 @@ THOU HE <u>BALK</u> "REMOVER"
 
 2020 sucked I knew,  
 <!--Clubs and bars I saw no <input type="text" size='5' class="poetry">.  -->
-Clubs and bars I saw no ___. 
-Real life friends I hardly see,  
-No more cafe catchup ___. 
+Clubs and bars I saw no \_\_\_.  
+Real life friends I hardly see,   
+No more cafe catchup \_\_\_.  
 Inside no masks was a sin,  
-Takeout replaced dining ___. 
+Takeout replaced dining \_\_\_.   
 New year spring brings outdoor botany,  
-Also hope and vaccines for m___.  
+Also hope and vaccines for m\_\_\_.  
 
 * * *
 

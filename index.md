@@ -29,14 +29,13 @@ release the solutions.
 
 If you would like to be notified right away when hunt opens and solutions
 released, please enter email below. (Note: Strictly optional, webpage should
-update on day of hunt with passcode to puzzles. But it also gives us a sense of
-RSVPs/numbers which is helpful.)
+update on day of hunt with passcode to puzzles.) This also helps give us a sense
+of numbers.
 
 <iframe
 src="https://docs.google.com/forms/d/e/1FAIpQLSddbKOTJN2E_08dYiGlicGEMlBbXj4gFeyfdSeHHt9oPgk2MQ/viewform?embedded=true"
 width="600" height="469" frameborder="0" marginheight="0"
 marginwidth="0">Loading…</iframe>
-
 
 ---
 
@@ -74,7 +73,7 @@ Emails go to: nrobot
 
 - What if I want to write puzzles, but don't know how to start?
 
-Fill out the contact form :D
+You should join us! Fill out the contact form :D
 
 ---
 
@@ -84,6 +83,16 @@ When people finish the meta, their names will show up here:
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTx5MtV4QKFO5hq7QppPUx2qEvJV29TNfVR80uxloN7fPoFcjyl3qHpCY8d5ZBkIgfYlHJFldXvXIKN/pubhtml?gid=1309153968&amp;single=true&amp;widget=true&amp;headers=false"  width="500" height="400"></iframe>
 
+
+---
+
+
+## Contact Us
+
+<iframe
+src="https://docs.google.com/forms/d/e/1FAIpQLSecPTIR03lfSIbjxPjdts8dzLb5_fOnueDb78aLXT0z6CKyBw/viewform?embedded=true"
+width="600" height="650" frameborder="0" marginheight="0"
+marginwidth="0">Loading…</iframe>
 
 ---
 
@@ -110,26 +119,14 @@ after the website's domain name :)
 Our hunt is not secure, in good spirit, if you are participating please do not
 try to reverse the answers from the source code.
 
----
-
-## Contact Us
-
-<iframe
-src="https://docs.google.com/forms/d/e/1FAIpQLSecPTIR03lfSIbjxPjdts8dzLb5_fOnueDb78aLXT0z6CKyBw/viewform?embedded=true"
-width="600" height="700" frameborder="0" marginheight="0"
-marginwidth="0">Loading…</iframe>
-
-
-
-
 <script>
-    function makeURL() {
-        passphrase = document.getElementById("submitpass").value;
-        divurl = document.getElementById('divurl');
-        html = '<br><h3>If the passphrase is correct, this URL will work: <br><br>';
-        html += '<a href="' + String(passphrase) + '.html">Link</a>';
-        html += '<br><br>Otherwise you wil get a 404 error</h3>'; 
-        divurl.innerHTML = html;
-    }
-
+function makeURL() {
+    passphrase = document.getElementById("submitpass").value;
+    divurl = document.getElementById('divurl');
+    html = '<br><h3>If the passphrase is correct, this URL will work: <br><br>';
+    html += '<a href="' + String(passphrase) + '.html">Link</a>';
+    html += '<br><br>Otherwise you wil get a 404 error</h3>'; 
+    divurl.innerHTML = html;
+}
 </script>
+
