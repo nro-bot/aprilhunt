@@ -29,7 +29,8 @@ release the solutions.
 
 If you would like to be notified right away when hunt opens and solutions
 released, please enter email below. (Note: Strictly optional, webpage should
-update on day of hunt with passcode to puzzles)
+update on day of hunt with passcode to puzzles. But it also gives us a sense of
+RSVPs/numbers which is helpful.)
 
 <iframe
 src="https://docs.google.com/forms/d/e/1FAIpQLSddbKOTJN2E_08dYiGlicGEMlBbXj4gFeyfdSeHHt9oPgk2MQ/viewform?embedded=true"
