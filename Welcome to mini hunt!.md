@@ -131,13 +131,22 @@ FRF →  WAR → M21
 
 ALA → ROE → KTK → DTK → M19 → WAR
 
+
+* * * 
+
+# Bagus 🌶️🌶️🌶️
+
+```
+ANDOVICHAZGAZZELBALOGBLACKOTCOWLEYCYBERANDVROSGEGLAURUNGLLUMGORIYLIZZARDLMIALUIFERLURZMALACIOBLINOCTROKPISTACOPOSVOICERAINRASILONRMOSSELOBSIBYSLIHEENSNOWFLAKWACHIEFWEDIGO
+```
+
 * * * 
 
 # IT’S ABOUT TIME! 🌶️🌶️🌶️
 
 _Boy, they sure pick some weird people sometimes..._
 
-Apparently, he really preferred offense planning (12)
+Apparently, he really preferred offense planning (12)  
 Character on a popular Netflix drama (3)    
 Do Bunsen & Beaker count... or is it just non-fictional ones? (2)   
 Famous dreamer (4)  
@@ -160,16 +169,6 @@ Those who would die in “A Quiet Place” (8)
 Vietnam commander (9)   
 Who gets the estate? (8)    
 Whom Chris, Zoe, Dave, Vin and Bradley portray, for short (9)   
-
-
-* * * 
-
-# Bagus 🌶️🌶️🌶️
-
-```
-ANDOVICHAZGAZZELBALOGBLACKOTCOWLEYCYBERANDVROSGEGLAURUNGLLUMGORIYLIZZARDLMIALUIFERLURZMALACIOBLINOCTROKPISTACOPOSVOICERAINRASILONRMOSSELOBSIBYSLIHEENSNOWFLAKWACHIEFWEDIGO
-```
-
 
 * * * 
 # Meta 🌶️
