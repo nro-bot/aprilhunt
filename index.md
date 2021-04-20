@@ -10,7 +10,7 @@ layout: homepage
 This a small puzzle hunt written as practice by a small group of people. There
 will be 8 puzzles and one meta, and an answer checker. The puzzles are short, if
 we had to guess, it might take intermediate 2-3 people around 4 hours. 
-The hunt will run from noon Saturday to midnight Sunday, at which point we will
+The hunt will run from noon EDT Saturday (24 April 2021) to midnight Sunday, at which point we will
 release the solutions.
 
 <h2><p style="text-align: center;">Hunt will begin in:</p></h2>
@@ -41,14 +41,20 @@ marginwidth="0">Loading…</iframe>
 
 ## FAQ
 
-We made an attempt at an FAQ, but honestly this is just for our friends right now so we
-assume you are familiar with puzzlehunts...
+We made an attempt at an FAQ, but honestly this is mostly for our friends. Be
+kind :)
+
+- What if I want to write puzzles, but don't know how to start?
+
+You should join us! Fill out the contact form :D We made this hunt to learn and
+practice puzzle writing.
 
 - What are these puzzles?
 
 These are free-form puzzles where there are no instructions, unlike a crossword
 puzzle. The answers will usually be a word or short phrase, which you will
-somehow extract from the the puzzle. 
+somehow extract from the the puzzle. Perhaps see this [blog
+post](https://blog.vero.site/post/puzzlehunts) for more info.
 
 - What is a hunt?
 
@@ -68,12 +74,9 @@ not all, of the other puzzles.
 
 - Who made this? Who are my emails being stored by?
 
-We are: nrobot, James, Tchakka, Dbopp, robo, L, Zoz, dwilson, Seth
-Emails go to: nrobot
+We are: nrobot, James, Tchakka, Dbopp, robo, L, Zoz, dwilson, Seth. In 2020 we
+hunted with the team known in 2020 as "We can't hear you you're on mute".
 
-- What if I want to write puzzles, but don't know how to start?
-
-You should join us! Fill out the contact form :D
 
 ---
 
