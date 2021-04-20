@@ -41,7 +41,8 @@ marginwidth="0">Loading…</iframe>
 
 ## FAQ
 
-We made an attempt at an FAQ, but we mostly wrote for friends.
+We made an attempt at an FAQ, though we think only existing puzzlers will find
+this hunt. 
 
 - What if I want to write puzzles, but don't know how to start?
 
