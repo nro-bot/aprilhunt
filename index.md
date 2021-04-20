@@ -41,7 +41,7 @@ marginwidth="0">Loading…</iframe>
 
 ## FAQ
 
-We made an attempt at an FAQ, but this is mostly for friends. 
+We made an attempt at an FAQ, but we mostly wrote for friends.
 
 - What if I want to write puzzles, but don't know how to start?
 
@@ -63,19 +63,19 @@ compete to be first to finish the hunt.
 - What counts as finishing the hunt?
 
 Solving the meta is sufficient to enter the leaderboard (if you wish), without
-necessarily solving all puzzles.
+solving all puzzles.
 
 - What is a meta?
 
 A meta is a puzzle which uses the answers from other (earlier) puzzles.
-Thus, in order to solve the meta (and win the hunt!), you must solve several, ir
+Thus, in order to solve the meta (and win the hunt!), you must solve several, if
 not all, of the other puzzles.
 
 - Who made this? Who are my emails being stored by?
 
-We are: nrobot, James, Tchakka, Dbopp, robo, L, Zoz, dwilson, Seth. In 2020 we
-hunted with the team known in 2020 as "We can't hear you you're on mute".
-
+We are: nrobot, James, Tchakka, Dbopp, robo, L, Zoz, dwilson, Seth. In 2020, we
+hunted with the team known in 2020 as "We can't hear you you're on mute". But we
+don't represent the team in any way.
 
 ---
 
@@ -94,6 +94,7 @@ When people finish the meta, their names will show up here:
 src="https://docs.google.com/forms/d/e/1FAIpQLSecPTIR03lfSIbjxPjdts8dzLb5_fOnueDb78aLXT0z6CKyBw/viewform?embedded=true"
 width="600" height="650" frameborder="0" marginheight="0"
 marginwidth="0">Loading…</iframe>
+
 
 ---
 
@@ -126,7 +127,7 @@ function makeURL() {
     divurl = document.getElementById('divurl');
     html = '<br><h3>If the passphrase is correct, this URL will work: <br><br>';
     html += '<a href="' + String(passphrase) + '.html">Link</a>';
-    html += '<br><br>Otherwise you wil get a 404 error</h3>'; 
+    html += '<br><br>Otherwise you will get a 404 error</h3>'; 
     divurl.innerHTML = html;
 }
 </script>
