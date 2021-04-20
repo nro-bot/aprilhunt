@@ -10,8 +10,8 @@ layout: homepage
 This a small puzzle hunt written as practice by a small group of people. There
 will be 8 puzzles and one meta, and an answer checker. The puzzles are short, if
 we had to guess, it might take intermediate 2-3 people around 4 hours. 
-The hunt will run from noon EDT Saturday (24 April 2021) to midnight Sunday, at which point we will
-release the solutions.
+The hunt will run from noon EDT Saturday (24 April 2021) to midnight Sunday, at
+which point we will release the solutions.
 
 <h2><p style="text-align: center;">Hunt will begin in:</p></h2>
 <div class="countdown" id="countdown">
@@ -41,8 +41,7 @@ marginwidth="0">Loading…</iframe>
 
 ## FAQ
 
-We made an attempt at an FAQ, but honestly this is mostly for our friends. Be
-kind :)
+We made an attempt at an FAQ, but this is mostly for friends. 
 
 - What if I want to write puzzles, but don't know how to start?
 
