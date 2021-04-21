@@ -13,6 +13,9 @@ we had to guess, it might take intermediate 2-3 people around 4 hours.
 The hunt will run from noon EDT Saturday (24 April 2021) to midnight Sunday, at
 which point we will release the solutions. 
 
+(No really, this was written as practice, most of us are writing puzzles for the
+first time this year)
+
 <h2><p style="text-align: center;">Hunt will begin in:</p></h2>
 <div class="countdown" id="countdown">
 <ul>
@@ -44,10 +47,23 @@ marginwidth="0">Loading…</iframe>
 We made an attempt at an FAQ, though we think only existing puzzlers will find
 this hunt. 
 
+- How difficult is this?
+
+The first two puzzles are very beginner friendly (the easier end of
+puzzled pint). We think the final two are medium-easy mystery hunt puzzles. **As a
+large disclaimer**, we didn't expect that many people to see this in time, we
+testsolved all once but not twice, and never as a whole hunt. Bring on the
+feedback >:D and don't take it too seriously?
+
 - What if I want to write puzzles, but don't know how to start?
 
 You should join us! Fill out the contact form :D We made this hunt to learn and
 practice puzzle writing.
+
+- Where do I register my team?
+
+There is no team registration, the leaderboard will ask your
+(team)name when you get the meta. 
 
 - What are these puzzles?
 
