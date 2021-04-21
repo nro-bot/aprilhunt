@@ -51,9 +51,9 @@ this hunt.
 
 The first two puzzles are very beginner friendly (the easier end of
 puzzled pint). We think the final two are medium-easy mystery hunt puzzles. **As a
-large disclaimer**, we didn't expect that many people to see this in time, we
-testsolved all once but not twice, and never as a whole hunt. Bring on the
-feedback >:D and don't take it too seriously?
+large disclaimer**, we didn't expect that many people to find this in time
+(read: maybe 5 people), we testsolved all once but not twice, and never as a
+whole hunt. Bring on the feedback >:D and don't take it too seriously please.
 
 - What if I want to write puzzles, but don't know how to start?
 
