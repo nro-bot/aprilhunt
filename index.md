@@ -11,7 +11,7 @@ This a small puzzle hunt written as practice by a small group of people. There
 will be 8 puzzles and one meta, and an answer checker. The puzzles are short, if
 we had to guess, it might take intermediate 2-3 people around 4 hours. 
 The hunt will run from noon EDT Saturday (24 April 2021) to midnight Sunday, at
-which point we will release the solutions.
+which point we will release the solutions. 
 
 <h2><p style="text-align: center;">Hunt will begin in:</p></h2>
 <div class="countdown" id="countdown">
@@ -63,8 +63,7 @@ compete to be first to finish the hunt.
 
 - What counts as finishing the hunt?
 
-Solving the meta is sufficient to enter the leaderboard (if you wish), without
-solving all puzzles.
+Solving the meta puzzle is sufficient to enter the leaderboard (if you wish).
 
 - What is a meta?
 
@@ -72,11 +71,23 @@ A meta is a puzzle which uses the answers from other (earlier) puzzles.
 Thus, in order to solve the meta (and win the hunt!), you must solve several, if
 not all, of the other puzzles.
 
-- Who made this? Who are my emails being stored by?
+- Who made this? Who are my emails being stored by? 
 
 We are: nrobot, James, Tchakka, Dbopp, robo, L, Zoz, dwilson, Seth. In 2020, we
 hunted with the team known in 2020 as "We can't hear you you're on mute". But we
-don't represent the team in any way.
+don't represent the team in any way, and many of us are writing puzzles for the
+first time. Any feedback appreciated!
+
+- Why write?
+
+It's a fun social activity, we get together and try each other's puzzles and you
+can see the puzzle revision process. Plus it helps improve puzzle solving skills
+too. 
+
+- What if I get stuck on a puzzle?
+
+Fill out the "contact us" form, we can give hints and/or check for mistakes on
+our end.
 
 ---
 
