@@ -13,11 +13,17 @@ on the homepage and we'll give out hints.
 # A sticky situation 🌶️
 
 |:-------------|:
-Seafaring vessel | CALL |
-Bananas |  CHIP |
-Headwear for royalty |  CLASH |
-Thin out |   CLOWN |
-Fastener |   CRAZE |
+| Bills and coins |	BACON |
+| Pancake start |	BREAD |
+| Play on words |	BUN |
+| Wind or tread |	BUTTER |
+| Actor part | EGGS |
+| Frozen waffle brand |	GRITS |
+| WWI's Red ___ |	HAM |
+| Rec. device |	HONEY |
+| Wide |	MILK |
+| Insult comedy |	ROLL |
+| Toothy smiles |	TOAST |
 
 * * * 
 
