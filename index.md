@@ -31,8 +31,8 @@ first time this year)
 ## Email Notifications 
 
 If you would like to be notified right away when hunt opens and solutions
-released, please enter email below. (Note: Strictly optional, webpage should
-update on day of hunt with passcode to puzzles.) This also helps give us a sense
+released, please enter email below. (Note: Strictly optional, this page should
+update on day of hunt publicly with passcode to puzzles.) This also helps give us a sense
 of numbers.
 
 <iframe
