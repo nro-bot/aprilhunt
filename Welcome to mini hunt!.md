@@ -8,12 +8,6 @@ Note: 🌶️ are ratings based mostly on puzzle length and somewhat on difficul
 Internet searches are allowed (and needed). Feeling stuck? Fill out the contact us form
 on the homepage and we'll give out hints.
 
-<!-- Text can be **bold**, _italic_, or ~~strikethrough~~ -->
-
-<!--- [Link to another page](./another-page.html). --->
-
-<!--- ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) -->
-
 * * * 
 
 # A sticky situation 🌶️
@@ -33,16 +27,19 @@ Fastener |   CRAZE |
   <div class='joeri'>Brave as a <img src="{{site.baseurl}}/assets/images/animal02.jpg">.</div>
   
   <br>
+  <br>
 
   <div class='joeri'>Let the <img src="{{site.baseurl}}/assets/images/animal03.jpg"> out of the bag.</div>
   <div class='joeri'><img src="{{site.baseurl}}/assets/images/animal04.jpg">-shaving.</div>
 
+  <br>
   <br>
 
   <div class='joeri'>Blind as a <img src="{{site.baseurl}}/assets/images/animal05.jpg">.</div>
   <div class='joeri'>The <img src="{{site.baseurl}}/assets/images/animal06.jpg"> around one’s neck.</div>
   <div class='joeri'>Busy as a <img src="{{site.baseurl}}/assets/images/animal07.jpg">.</div>
 
+  <br>
   <br>
 
   <div class='joeri'>To <img src="{{site.baseurl}}/assets/images/animal08.jpg"> out of something.</div>
@@ -84,7 +81,6 @@ GRAYING
 THOU HE <u>BALK</u> "REMOVER"
 
 2020 sucked I knew,  
-<!--Clubs and bars I saw no <input type="text" size='5' class="poetry">.  -->
 Clubs and bars I saw no \_\_\_.  
 Real life friends I hardly see,   
 No more cafe catchup \_\_\_.  
