@@ -90,8 +90,8 @@ THOU HE <u>BALK</u> "REMOVER"
 At movies, bars, and clubs, there’s no longer a \_\_\_.  
 I used to commute from Alewife to Braintree,  
 But now I work from home. I don’t need the \_\_\_.   
-Going inside without masks, now a sin,  
-Takeout has replaced dining \_\_\_ .  
+Going inside without masks, now considered a sin,  
+Forget going to restaurants, you should only stay \_\_\_.  
 New year and vaccines, I’ll celebrate with Henny,  
 I have hopes and dreams, do you have \_\_\_?  
 
