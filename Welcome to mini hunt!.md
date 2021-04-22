@@ -82,7 +82,7 @@ GRAYING
 
 * * *
 
-# THOU HE BALK "REMOVER" 🌶️
+# Poem  🌶️
 
 2020, what a year to live through.  
 At movies, bars, and clubs, there’s no longer a \_\_\_.  
@@ -94,6 +94,7 @@ New year and vaccines, I’ll celebrate with Henny,
 I have hopes and dreams, do you have \_\_\_?  
 
 THOU HE <u>BALK</u> "REMOVER"
+
 
 * * *
 
