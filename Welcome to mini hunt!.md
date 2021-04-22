@@ -82,18 +82,19 @@ GRAYING
 
 * * *
 
-# Poetry 🌶️
+# THOU HE BALK "REMOVER" 🌶️
 
 THOU HE <u>BALK</u> "REMOVER"
 
-2020 sucked I knew,  
-Clubs and bars I saw no \_\_\_.  
-Real life friends I hardly see,   
-No more cafe catchup \_\_\_.  
-Inside no masks was a sin,  
-Takeout replaced dining \_\_\_.   
-New year spring brings outdoor botany,  
-Also hope and vaccines for m\_\_\_.  
+2020, what a year to live through.
+At movies, bars, and clubs, there’s no longer a \_\_\_. 
+I used to commute from Alewife to Braintree,
+But now I work from home. I don’t need the \_\_\_. 
+Going inside without masks, now a sin,
+Takeout has replaced dining \_\_\_ . 
+New year and vaccines, I’ll celebrate with Henny,
+I have hopes and dreams, do you have \_\_\_?
+
 
 * * *
 
