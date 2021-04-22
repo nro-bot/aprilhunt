@@ -6,8 +6,6 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
-    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
     <!--[if lt IE 9]>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
     <![endif]-->
@@ -92,17 +90,30 @@
         div.appendChild(answerField);
         div.appendChild(checkButton);
         div.appendChild(responseDiv);
-        document.getElementById('check_answers').appendChild(div);
+        if (name == 'Meta') {
+            document.getElementById('check_meta_answer').appendChild(div);
+        } else {
+            document.getElementById('check_answers').appendChild(div);
+        }
 
         function check() {
             var fixedAnswer = fixAnswer(answerField.value);
             if (checkAnswer(fixedAnswer, answerHash)) {
-                puzz = document.getElementById('puzzle1');
                 answerField.value = fixedAnswer;
                 answerField.style.backgroundColor = "lightgreen";
                 answerField.readOnly = true;
                 checkButton.disabled = true;
                 responseDiv.innerText = fixedAnswer + ' is correct!';
+                if (name == 'Meta') {
+                    // take user input answer and derive leaderboard URL 
+                    leaderboardDiv = document.createElement('div');
+                    // rotate13 for fun
+                    rotateOnce = answerField.value.replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);});
+                    url = CryptoJS.SHA256(rotateOnce + "findtheleaderboard").toString(CryptoJS.enc.Hex);
+                    html = '<h1><a href= "' + String(url) + '.html">Take me to the leaderboard!</a></h1>';
+                    leaderboardDiv.innerHTML = html;
+                    responseDiv.appendChild(leaderboardDiv);
+                    }
                 //responseDiv.style.fontStyle = "italic";
             } else {
                 responseDiv.innerText = fixedAnswer + ' is incorrect';
@@ -128,5 +139,7 @@
     makeAnswerChecker('Meta', '148e68a5833c974e2a982fa7fb171015b41434804246b59c759496e990cd3c3c');
 </script>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9/core.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9/sha256.js"></script>
+<script src="{{ '/assets/js/jquery.min.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/cryptoJS-core.min.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/sha256.min.js' | relative_url }}"></script>
