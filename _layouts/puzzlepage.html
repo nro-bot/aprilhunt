@@ -110,7 +110,7 @@
                     // rotate13 for fun
                     rotateOnce = answerField.value.replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);});
                     url = CryptoJS.SHA256(rotateOnce + "findtheleaderboard").toString(CryptoJS.enc.Hex);
-                    html = '<h1><a href= "' + String(url) + '.html">Take me to the leaderboard!</a></h1>';
+                    html = '<h1><a href= "' + String(url) + '.html">🎊 🎉 Take me to the leaderboard! 🥳 🎊</a></h1>';
                     leaderboardDiv.innerHTML = html;
                     responseDiv.appendChild(leaderboardDiv);
                     }
@@ -139,7 +139,7 @@
     makeAnswerChecker('Meta', '148e68a5833c974e2a982fa7fb171015b41434804246b59c759496e990cd3c3c');
 </script>
 
-<script src="{{ '/assets/js/jquery.min.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/jquery-3.3.0.min.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/cryptoJS-core.min.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/sha256.min.js' | relative_url }}"></script>

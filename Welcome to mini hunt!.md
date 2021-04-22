@@ -178,4 +178,10 @@ Whom Chris, Zoe, Dave, Vin and Bradley portray, for short (9)
 
 <img src="{{site.baseurl}}/assets/images/Grid.png" alt="4x4 Grid">
 
+* * * 
+
+# Did you win? 
+
+(Not a puzzle)
+
 <div id="check_meta_answer"></div>
