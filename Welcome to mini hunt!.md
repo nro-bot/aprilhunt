@@ -93,7 +93,7 @@ Forget going to restaurants, you should only stay \_\_\_.
 New year and vaccines, I’ll celebrate with Henny,  
 I have hopes and dreams, do you have \_\_\_?  
 
-THOU HE <u>BALK</u> "REMOVER"
+THOU HE BALK "REMOVER"
 
 
 * * *
