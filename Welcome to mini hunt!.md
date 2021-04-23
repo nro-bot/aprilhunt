@@ -122,7 +122,7 @@ THOU HE <u>BALK</u> "REMOVER"
 
 <!--<div class='focusable' tabindex=0> </div> -->
 
-# Traveling by Plane 🌶️🌶️
+# Magic Plane Travel 🌶️🌶️
 
 GS1 → M20
 
