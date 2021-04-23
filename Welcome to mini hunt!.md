@@ -10,7 +10,7 @@ on the homepage and we'll give out hints.
 
 * * * 
 
-# A sticky situation 🌶️
+# A Sticky Situation 🌶️
 
 |:-------------|:
 | Bills and coins |	BACON |
