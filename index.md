@@ -15,14 +15,14 @@ which point we will release the solutions.
 
 
 <!--<h2><p style="text-align: center;">Hunt will begin in:</p></h2>-->
-<div class="countdown" id="countdown">
-<ul>
-<li><span id="days"></span><br>days</li>
-<li><span id="hours"></span><br>Hours</li>
-<li><span id="minutes"></span><br>Minutes</li>
-<li><span id="seconds"></span><br>Seconds</li>
-</ul>
-</div>
+<!--<div class="countdown" id="countdown">-->
+<!--<ul>-->
+<!--<li><span id="days"></span><br>days</li>-->
+<!--<li><span id="hours"></span><br>Hours</li>-->
+<!--<li><span id="minutes"></span><br>Minutes</li>-->
+<!--<li><span id="seconds"></span><br>Seconds</li>-->
+<!--</ul>-->
+<!--</div>-->
 
 ---
 
