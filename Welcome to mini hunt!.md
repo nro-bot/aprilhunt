@@ -8,8 +8,9 @@ Note: 🌶️  are ratings (inspired by [Curious
 Cookoff](https://curiouscookoff.com)) based mostly on puzzle length and somewhat
 on difficulty. Internet searches are allowed (and needed). 
 
-Feeling stuck? Email us at mutedpuzzles at gmail with subject line HINT REQUEST for ["puzzle name"] ["your
-username"], brackets included. 
+Feeling super stuck? Email us at mutedpuzzles at gmail with subject line HINT
+REQUEST for ["puzzle name"] ["your username"], brackets included. Response times
+may be slow (2-3 hrs) due to limited staffing, but we'll get to you!
 
 __Happy puzzling!__ Above notes not a puzzle. 
 
