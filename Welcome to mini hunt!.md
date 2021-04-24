@@ -4,9 +4,10 @@ layout: puzzlepage
 
 #  Let the hunt begin!
 
-Note: 🌶️ are ratings based mostly on puzzle length and somewhat on difficulty. 
-Internet searches are allowed (and needed). Feeling stuck? Fill out the contact us form
-on the homepage and we'll give out hints.
+Notes (not a puzzle): 🌶️ (inspired by [Curious
+Cookoff](https://curiouscookoff.com) are ratings based mostly on puzzle length
+and somewhat on difficulty.  Internet searches are allowed (and needed). Feeling
+stuck? Fill out the contact us form on the homepage for hints. Good luck!
 
 * * * 
 

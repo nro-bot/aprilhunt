@@ -2,9 +2,6 @@
 layout: homepage 
 ---
 
-<!-- Text can be **bold**, _italic_, or ~~strikethrough~~ -->
-<!--- ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) -->
-
 # Welcome!
 
 This a small puzzle hunt written as practice by a small group of people. There
@@ -39,6 +36,12 @@ of numbers.
 src="https://docs.google.com/forms/d/e/1FAIpQLSddbKOTJN2E_08dYiGlicGEMlBbXj4gFeyfdSeHHt9oPgk2MQ/viewform?embedded=true"
 width="600" height="469" frameborder="0" marginheight="0"
 marginwidth="0">Loading…</iframe>
+
+---
+
+## Errata
+
+If there are any, timestamped errata will appear here.
 
 ---
 
@@ -102,7 +105,7 @@ too.
 
 - What if I get stuck on a puzzle?
 
-Fill out the "contact us" form, we can give hints and/or check for mistakes on
+Fill out the "contact us" form and select "hint request", we can give hints and/or check for mistakes on
 our end.
 
 ---
@@ -110,7 +113,6 @@ our end.
 ## Leaderboard
 
 When people finish the meta, their names will show up here:
-
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTx5MtV4QKFO5hq7QppPUx2qEvJV29TNfVR80uxloN7fPoFcjyl3qHpCY8d5ZBkIgfYlHJFldXvXIKN/pubhtml?gid=318061438&amp;single=true&amp;widget=true&amp;headers=false" width="500" height="400"></iframe>
 
@@ -128,9 +130,6 @@ marginwidth="0">Loading…</iframe>
 ---
 
 ## For Beta Testers
-
-<!--[Link to another page](./another-page.html). -->
-
 
 <form id="form" onsubmit="return false;">
 <input style="padding:0px" type="text" id="submitpass" size="20"/>
