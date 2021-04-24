@@ -26,9 +26,12 @@ which point we will release the solutions.
 
 ---
 
-## Errata
+## Updates & Errata
 
 If there are any, timestamped errata will appear here.
+
+24 Apr 15:24 -- We are a little overwhelmed so response times will be slow (up
+to 2 or 3 hours), as we are out on chores today (Saturday). Thanks for puzzling!
 
 ---
 
@@ -109,8 +112,9 @@ too.
 
 - What if I get stuck on a puzzle?
 
-Email us at mutedpuzzles at gmail with subject line HINT REQUEST for ["puzzle name"] ["your
-username"], brackets included. 
+If you feel super frustrated, drop us an email us at mutedpuzzles at gmail with
+subject line HINT REQUEST for ["puzzle name"] ["your username"], brackets
+included. 
 
 ---
 
