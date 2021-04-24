@@ -58,6 +58,8 @@ large disclaimer**, we didn't expect that many people to find this in time
 (read: maybe 5 people), we testsolved all once but not twice, and never as a
 whole hunt. Bring on the feedback >:D and don't take it too seriously please.
 
+[Fri evening update: We had successful solo testsolve of whole hunt]
+
 - What if I want to write puzzles, but don't know how to start?
 
 You should join us! Fill out the contact form :D We made this hunt to learn and
