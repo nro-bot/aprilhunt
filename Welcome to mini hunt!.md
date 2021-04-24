@@ -6,11 +6,11 @@ layout: puzzlepage
 
 Notes (not a puzzle): 🌶️ (inspired by [Curious
 Cookoff](https://curiouscookoff.com)) are ratings based mostly on puzzle length
-and somewhat on difficulty. Internet searches are allowed (and needed). Feeling
-stuck? If you feel excessively frustrated still on Sunday, email us at
-mutedpuzzles at gmail with subject line HINT REQUEST for ["puzzle name"] ["your
-username"], e.g.  HINT REQUEST FOR [BAGUS] [nrobot]. (After 8am Sun) we'll try
-to respond within an hour. Happy puzzling!
+and somewhat on difficulty. Internet searches are allowed (and needed). __Happy
+puzzling!__
+
+Feeling stuck? email us at mutedpuzzles at gmail with subject line HINT REQUEST for ["puzzle name"] ["your
+username"], brackets included. 
 
 * * * 
 

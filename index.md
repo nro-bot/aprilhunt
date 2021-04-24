@@ -2,6 +2,7 @@
 layout: homepage 
 ---
 
+
 # Welcome!
 
 This a small puzzle hunt written as practice by a small group of people. There
@@ -10,10 +11,10 @@ we had to guess, it might take intermediate 2-3 people around 4 hours.
 The hunt will run from noon EDT Saturday (24 April 2021) to midnight Sunday, at
 which point we will release the solutions. 
 
-(No really, this was written as practice, most of us are writing puzzles for the
-first time this year)
+# [🆕 The hunt has begun! Click to enter ➡️ ]({{site.baseurl}}/Welcome%20to%20mini%20hunt!.html)
 
-<h2><p style="text-align: center;">Hunt will begin in:</p></h2>
+
+<!--<h2><p style="text-align: center;">Hunt will begin in:</p></h2>-->
 <div class="countdown" id="countdown">
 <ul>
 <li><span id="days"></span><br>days</li>
@@ -22,6 +23,12 @@ first time this year)
 <li><span id="seconds"></span><br>Seconds</li>
 </ul>
 </div>
+
+---
+
+## Errata
+
+If there are any, timestamped errata will appear here.
 
 ---
 
@@ -37,11 +44,6 @@ src="https://docs.google.com/forms/d/e/1FAIpQLSddbKOTJN2E_08dYiGlicGEMlBbXj4gFey
 width="600" height="469" frameborder="0" marginheight="0"
 marginwidth="0">Loading…</iframe>
 
----
-
-## Errata
-
-If there are any, timestamped errata will appear here.
 
 ---
 
