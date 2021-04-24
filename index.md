@@ -109,8 +109,8 @@ too.
 
 - What if I get stuck on a puzzle?
 
-Fill out the "contact us" form and select "hint request", we can give hints and/or check for mistakes on
-our end.
+Email us at mutedpuzzles at gmail with subject line HINT REQUEST for ["puzzle name"] ["your
+username"], brackets included. 
 
 ---
 
