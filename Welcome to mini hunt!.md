@@ -11,7 +11,7 @@ on difficulty. Internet searches are allowed (and needed).
 Feeling stuck? Email us at mutedpuzzles at gmail with subject line HINT REQUEST for ["puzzle name"] ["your
 username"], brackets included. 
 
-Above notes not a puzzle. __Happy puzzling!__
+__Happy puzzling!__ Above notes not a puzzle. 
 
 * * * 
 
