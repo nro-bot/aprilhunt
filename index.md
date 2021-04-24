@@ -30,9 +30,6 @@ which point we will release the solutions.
 
 If there are any, timestamped errata will appear here.
 
-24 Apr 15:24 -- We are a little overwhelmed so response times will be slow (up
-to 2 or 3 hours), as we are out on chores today (Saturday). Thanks for puzzling!
-
 ---
 
 ## Email Notifications 
