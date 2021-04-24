@@ -10,7 +10,7 @@ on the homepage and we'll give out hints.
 
 * * * 
 
-# A sticky situation 🌶️
+# A Sticky Situation 🌶️
 
 |:-------------|:
 | Bills and coins |	BACON |
@@ -82,7 +82,7 @@ GRAYING
 
 * * *
 
-# Low Quality Poetry 🌶️
+# Random Poetry 🌶️
 
 2020, what a year to live through.  
 At movies, bars, and clubs, there’s no longer a \_\_\_.  
