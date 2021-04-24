@@ -6,8 +6,11 @@ layout: puzzlepage
 
 Notes (not a puzzle): 🌶️ (inspired by [Curious
 Cookoff](https://curiouscookoff.com)) are ratings based mostly on puzzle length
-and somewhat on difficulty.  Internet searches are allowed (and needed). Feeling
-stuck? Fill out the contact us form on the homepage for hints. Good luck!
+and somewhat on difficulty. Internet searches are allowed (and needed). Feeling
+stuck? If you feel excessively frustrated, email us at mutedpuzzles at
+gmail with subject line HINT REQUEST for ["puzzle name"] ["your username"], e.g.
+HINT REQUEST FOR [BAGUS] [nrobot]. We'll try to respond within an hour (longer
+overnight, 12AM-7AM). Happy puzzling!
 
 * * * 
 
