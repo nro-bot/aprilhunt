@@ -83,16 +83,37 @@ GRAYING
 
 * * *
 
-# Random Poem 🌶️
+# Some Random Poetry 🌶️
+_Well, that's what you would expect of new writers..._
 
-2020, what a year to live through.  
-At movies, bars, and clubs, there’s no longer a \_\_\_.  
-I used to commute from Alewife to Braintree,  
-But now I work from home. I don’t need the \_\_\_.   
-Going inside without masks, now considered a sin,  
-Forget going to restaurants, you should only stay \_\_\_.  
-New year and vaccines, I’ll celebrate with Henny,  
-I have hopes and dreams, do you have \_\_\_?  
+With cases at highs as never before, 2021 started dim,   
+But here's what I wrote, a hunt full of puzzles, on a wh\_\_\_.   
+I picked up new hobbies, in a quarantine cliché,   
+Watercolored some flowers, and even tried to croch\_\_\_.    
+I play with my cat, to try to restore, what's left of my mental energy,   
+Lest I lie all day and all night, on my bed in leth\_\_\_.   
+Though it may seem, there isn't much reason to yell yay or hurray,   
+But all of my friends, and family too, they're healthy and ok\_\_\_!   
+And although, of jobs I have none, I try not to stew in dismay,   
+At least I'll get my vaccine (in a few days) through publix \_\_\_ M\_\_\_.   
+
+
+2020, what a year to live through.     
+At movies, bars, and clubs, there’s no longer a \_\_\_.     
+I used to commute from Alewife to Braintree,     
+But now I work from home. I don’t need the \_\_\_.      
+Going inside without masks, now considered a sin,     
+Forget going to restaurants, you should only stay \_\_\_.     
+New year and vaccines, I’ll celebrate with Henny,     
+I have hopes and dreams, do you have \_\_\_?     
+
+
+Back aches, feel old \_\_\_d.   
+Cup my hot mug, sip some \_\_\_.   
+Breathe out, a big s\_\_\_.   
+Writing these poems, what a toil and trouble,   
+I will not write twice, that'd make my worries \_\_\_ –  
+This is the last poem we'll give \_\_\_, of that I'll make sure.   
 
 THOU HE BALK "REMOVER"
 
