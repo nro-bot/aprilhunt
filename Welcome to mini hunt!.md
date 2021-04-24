@@ -4,13 +4,14 @@ layout: puzzlepage
 
 #  Let the hunt begin!
 
-Notes (not a puzzle): 🌶️ (inspired by [Curious
-Cookoff](https://curiouscookoff.com)) are ratings based mostly on puzzle length
-and somewhat on difficulty. Internet searches are allowed (and needed). __Happy
-puzzling!__
+Note: 🌶️  are ratings (inspired by [Curious
+Cookoff](https://curiouscookoff.com)) based mostly on puzzle length and somewhat
+on difficulty. Internet searches are allowed (and needed). 
 
-Feeling stuck? email us at mutedpuzzles at gmail with subject line HINT REQUEST for ["puzzle name"] ["your
+Feeling stuck? Email us at mutedpuzzles at gmail with subject line HINT REQUEST for ["puzzle name"] ["your
 username"], brackets included. 
+
+Above notes not a puzzle. __Happy puzzling!__
 
 * * * 
 
