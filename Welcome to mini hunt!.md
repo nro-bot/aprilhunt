@@ -82,7 +82,7 @@ GRAYING
 
 * * *
 
-# Random Poetry 🌶️
+# Random Poem 🌶️
 
 2020, what a year to live through.  
 At movies, bars, and clubs, there’s no longer a \_\_\_.  
