@@ -7,7 +7,7 @@ Thanks for puzzling!
 Here's the solutions.
 
 - [A Sticky Situation 🌶️]({{site.baseurl}}/assets/solutions)
-- [Animal Sayings 🌶️]({{site.baseurl}}/assets/solutions/)
+- [Animal Sayings 🌶️]({{site.baseurl}}/assets/solutions/animalsayings.pdf)
 - [To B or not to B 🌶️]({{site.baseurl}}/assets/solutions/)
 - [Some Random Poetry 🌶️]({{site.baseurl}}/assets/solutions/)
 - [SweetSmash 🌶️🌶️]({{site.baseurl}}/assets/solutions/)
