@@ -30,7 +30,7 @@ which point we will release the solutions.
 
 If there are any, timestamped errata will appear here.
 
-24 April 23:35 -- [Some Random Poetry] publix should be switched to Walgreens for disambiguation.
+24 April 23:35 -- [Some Random Poetry] "publix \_\_\_ M\_\_\_" can be switched to "Walgreens (\_\_\_ M\_\_\_)" for less ambiguity.
 
 ---
 
