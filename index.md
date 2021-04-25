@@ -30,8 +30,9 @@ which point we will release the solutions.
 
 If there are any, timestamped errata will appear here.
 
-24 Apr 15:24 -- We are a little overwhelmed so response times will be slow (up
-to 2 or 3 hours), as we are out on chores today (Saturday). Thanks for puzzling!
+24 April 23:35 -- [Some Random Poetry] publix should be switched to Walgreens for disambiguation.
+24 Apr 15:24 -- We are a little short staffed so response times will be slow (up
+to 2 or 3 hours, though we are average closer to 30 mins). Thanks for puzzling!
 
 ---
 
