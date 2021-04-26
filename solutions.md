@@ -4,9 +4,9 @@ layout: homepage
 
 Thanks for puzzling!
 
-Here's the solutions.
+Here's the solutions (as PNGs / PDFs).
 
-- [A Sticky Situation 🌶️]({{site.baseurl}}/assets/solutions)
+- [A Sticky Situation 🌶️]({{site.baseurl}}/assets/solutions/astickysituation.png)
 - [Animal Sayings 🌶️]({{site.baseurl}}/assets/solutions/animalsayings.pdf)
 - [To B or not to B 🌶️]({{site.baseurl}}/assets/solutions/tobornottob.pdf)
 - [Some Random Poetry 🌶️]({{site.baseurl}}/assets/solutions/somerandompoetry.pdf)
@@ -16,6 +16,4 @@ Here's the solutions.
 - [IT’S ABOUT TIME! 🌶️🌶️🌶️]({{site.baseurl}}/assets/solutions/itsabouttime.pdf)
 - [Meta 🌶️]({{site.baseurl}}/assets/solutions/meta.png)
 
-<!--<img src="{{site.baseurl}}/assets/images/Grid.png" alt="4x4 Grid">-->
-
-
+<!--<iframe id="pdf" title="pdf" src="{{site.baseurl}}/assets/solutions/itsabouttime.pdf"></iframe>-->

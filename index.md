@@ -11,7 +11,19 @@ we had to guess, it might take intermediate 2-3 people around 4 hours.
 The hunt will run from noon EDT Saturday (24 April 2021) to midnight Sunday, at
 which point we will release the solutions. 
 
-# [🆕 The hunt has begun! Click to enter ➡️ ]({{site.baseurl}}/Welcome%20to%20mini%20hunt!.html)
+# 🆕 The hunt has ended. 
+
+Thanks for playing! 
+
+It's been great interacting with puzzlers through hint
+requests and seeing you all finish on the leaderboard. Do leave feedback below,
+and see you all at the next mini hunt!
+
+The solutions can be found here: [SOLUTIONS]({{site.baseurl}}/solutions.html)
+
+The puzzles can still be found here: [PUZZLES]({{site.baseurl}}/Welcome%20to%20mini%20hunt!.html)
+
+<!--[ The hunt has begun! Click to enter ➡️ ]({{site.baseurl}}/Welcome%20to%20mini%20hunt!.html)-->
 
 
 <!--<h2><p style="text-align: center;">Hunt will begin in:</p></h2>-->
