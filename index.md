@@ -11,20 +11,25 @@ we had to guess, it might take intermediate 2-3 people around 4 hours.
 The hunt will run from noon EDT Saturday (24 April 2021) to midnight Sunday, at
 which point we will release the solutions. 
 
-# 🆕 The hunt has ended. 
+---
 
-Thanks for playing! 
+# Thanks for playing!
 
-It's been great interacting with puzzlers through hint
-requests and seeing you all finish on the leaderboard. Do leave feedback below,
-and see you all at the next mini hunt!
+26 Apr 2021 / midnight EDT: That's a wrap!
+
+We had a great (and educational) time interacting with puzzlers through hint
+requests and it was super satisfying when we saw people finish on the leaderboard!
+Do leave feedback below, sign up if you'd like join us in learning to write
+puzzles, and see you all at the next mini hunt!
 
 The solutions can be found here: [SOLUTIONS]({{site.baseurl}}/solutions.html)
 
 The puzzles can still be found here: [PUZZLES]({{site.baseurl}}/Welcome%20to%20mini%20hunt!.html)
 
-<!--[ The hunt has begun! Click to enter ➡️ ]({{site.baseurl}}/Welcome%20to%20mini%20hunt!.html)-->
+Thanks for playing,
+--the Inaudible Hunt team
 
+<!--[ The hunt has begun! Click to enter ➡️ ]({{site.baseurl}}/Welcome%20to%20mini%20hunt!.html)-->
 
 <!--<h2><p style="text-align: center;">Hunt will begin in:</p></h2>-->
 <!--<div class="countdown" id="countdown">-->
@@ -110,10 +115,10 @@ not all, of the other puzzles.
 
 - Who made this? Who are my emails being stored by? 
 
-We are: nrobot, James, Tchakka, Dbopp, robo, L, Zoz, dwilson, Seth. In 2020, we
-hunted with the team known in 2020 as "We can't hear you you're on mute". But we
-don't represent the team in any way, and many of us are writing puzzles for the
-first time. Any feedback appreciated!
+We are: nrobot, James, Tchakka, Dbopp, robo, L, Zoz, dwilson, Seth, jwagner. In
+2020, we hunted with the team known in 2020 as "We can't hear you you're on
+mute". But we don't represent the team in any way, and many of us are writing
+puzzles for the first time. Any feedback appreciated!
 
 - Why write?
 
